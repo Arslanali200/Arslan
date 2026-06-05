@@ -30,7 +30,7 @@
 ## 🚀 Projects
 
 ### 🏠 House Price Prediction Model
-**Tech:** Python, Scikit-learn, Pandas, Linear Regression &nbsp;|&nbsp; 🔗 [https://colab.research.google.com/drive/1qQofY8_UcobbiUiJtuDL0u_h7qeh1Org?usp=sharing](#)
+**Tech:** Python, Scikit-learn, Pandas, Linear Regression &nbsp;|
 
 - Built a supervised machine learning model to predict residential house prices based on square footage and number of rooms
 - Performed data preprocessing including null-value removal and feature selection
@@ -39,7 +39,7 @@
 ---
 
 ### 📊 Business Sales Performance Dashboard
-**Tech:** Python, Pandas, Matplotlib, Seaborn &nbsp;|&nbsp; 🔗 [View Project](#)
+**Tech:** Python, Pandas, Matplotlib, Seaborn &nbsp;|&nbsp;
 
 - Analysed six months of business sales and expense data to compute monthly profit trends
 - Performed data cleaning and feature engineering to derive profit from sales and expenses
@@ -48,7 +48,7 @@
 ---
 
 ### 📈 Business Growth & Trend Analysis
-**Tech:** Python, NumPy, Pandas, Matplotlib, Seaborn &nbsp;|&nbsp; 🔗 [View Project](#)
+**Tech:** Python, NumPy, Pandas, Matplotlib, Seaborn &nbsp;|&nbsp; 
 
 - Performed feature engineering using Pandas, deriving a Net_Sales column via vectorised subtraction and extracting month labels for temporal aggregation
 - Delivered a ranked business summary using groupby aggregation, identifying top-performing products by total net sales to support data-driven decision making
