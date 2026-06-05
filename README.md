@@ -30,7 +30,7 @@
 ## 🚀 Projects
 
 ### 🏠 House Price Prediction Model
-**Tech:** Python, Scikit-learn, Pandas, Linear Regression &nbsp;|&nbsp; 🔗 [View Project](#)
+**Tech:** Python, Scikit-learn, Pandas, Linear Regression &nbsp;|&nbsp; 🔗 [https://colab.research.google.com/drive/1qQofY8_UcobbiUiJtuDL0u_h7qeh1Org?usp=sharing](#)
 
 - Built a supervised machine learning model to predict residential house prices based on square footage and number of rooms
 - Performed data preprocessing including null-value removal and feature selection
